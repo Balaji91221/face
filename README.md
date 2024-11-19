@@ -56,20 +56,6 @@ npm install
 yarn install
 ```
 
-## Project Structure
-
-```
-├── components/         # Reusable UI components
-├── pages/              # Application routes
-│   ├── api/            # API routes
-│   └── index.tsx       # Main entry point
-├── public/             # Static files (e.g., images, icons)
-├── styles/             # TailwindCSS configuration
-├── utils/              # Helper functions
-├── README.md           # Project documentation
-├── package.json        # Node.js dependencies
-└── tailwind.config.js  # TailwindCSS configuration
-```
 ## Contributing
 - Contributions are welcome! Follow these steps:
 
